@@ -1,0 +1,12 @@
+## Reentrancy Attack
+
+Reentrancy happens when a function is called again before it finishes execution.
+
+### Why it is dangerous
+- ETH is sent before state is updated
+- Attacker can drain funds
+
+### Prevention
+- Checks → Effects → Interactions
+- Update state before sending ETH
+- Use ReentrancyGuard
