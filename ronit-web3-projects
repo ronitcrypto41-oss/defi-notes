@@ -1,18 +1,28 @@
 # Ronit Web3 Learning Journey
 
-Self-taught Solidity & DeFi Developer
+Self-taught Solidity Developer | Passionate about DeFi
 
-## Projects Built:
-- Simple Token
-- Simple Bank
-- Simple Lending
-- Basic Staking
-- Reward Distributor
-- Simple Voting
-- Ownable Pattern
-- Vesting Contract
-- Advanced Lending
+## About Me
+- Learning Solidity and DeFi smart contracts daily since 2026
+- Built multiple contracts: Token, Bank, Lending, Staking, Vesting, Voting, Ownable, etc.
+- Currently focusing on writing and understanding real DeFi patterns
 
-Currently learning Solidity daily and building DeFi contracts.
+## Projects
 
-Open to Junior Solidity / Web3 Intern / Community roles.
+- **SimpleToken** - Basic ERC20 token with transfer
+- **SimpleBank** - Deposit and withdraw ETH
+- **SimpleLending** - Basic lending protocol
+- **BasicStaking** - Staking with total staked tracking
+- **RewardDistributor** - Claim rewards system
+- **SimpleVoting** - Decentralized voting system
+- **Ownable** - Ownership control pattern
+- **SimpleVesting** - Time-locked vesting contract
+- **AdvancedLending** - Lending with LTV and Health Factor
+
+## Current Status
+Actively learning and improving every day. Open to junior Solidity developer / Web3 intern / community roles.
+
+GitHub: https://github.com/ronitcrypto41-oss
+X: @Web3Ronit (or your handle)
+Email: ronitmarketing200522@gmail.com
+
