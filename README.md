@@ -1,24 +1,27 @@
-# Ronit Mishra - Aspiring Solidity Developer
+# 🏦 Ronit's DeFi Smart Contract Portfolio
+> Solidity Developer | DeFi Smart Contracts | Web3 Builder
+> Proficient in Hardhat & Foundry | Cyfrin Certified | Ethernaut Security 1-10
 
-Junior Solidity / DeFi Developer in training.
+---
 
-## About
-I am learning to read, write, and deploy secure smart contracts on Ethereum using Hardhat and Solidity.
+## 👨‍💻 About Me
+- 🔭 Building full-stack DeFi dapps on Ethereum
+- ✅ Cyfrin Updraft Solidity Certified
+- ✅ Ethernaut Security Levels 1-10 Complete
+- ✅ Fluent in both Hardhat and Foundry toolchains
+- ✅ Chainlink Oracle Integration
+- 📫 LinkedIn: linkedin.com/in/ronit-mishra-464837354
+- 🌐 Live Dapps: 
+  - RonitBank: ronit-bank-v2-nextjs.vercel.app
+  - NFT Dapp: challenge-tokenization-nextjs-rosy.vercel.app
+- 🎯 Open to: Remote Solidity internships and junior DeFi developer roles
 
-## Current Focus
-- Mastering basic Solidity syntax
-- Understanding DeFi primitives (deposit, withdraw, lending)
-- Building clean, testable contracts
+---
 
-## Tech Stack
-- Solidity ^0.8.20
-- Hardhat
-- JavaScript
-- Ethers.js (learning)
+## 🔨 Foundry Deployment
 
-## Goals (Next 30 Days)
-- Set up Hardhat project
-- Write and test my first lending contract
-- Improve GitHub + LinkedIn for job applications
-
-Daily progress will be updated here.
+**RonitBankFoundry** — Same core banking logic, deployed using Foundry toolchain
+- Contract: `0x16966dA70eb44dE0C26D59faf935Cb6DbC44329d` (Sepolia)
+- 3/3 Foundry tests passing (deposit, withdraw, insufficient balance)
+- Deployed via `forge script`, verified on Etherscan
+- Full deposit/withdraw flow tested via `cast`
